@@ -6,4 +6,5 @@ node_modules
 .output
 yarn.lock
 .idea
-
+.DS_Store
+**/.DS_Store
